@@ -1,4 +1,5 @@
 Project Title: Amazon Clone Website
+
 Project Description:
 This project involved building a front-end clone of the Amazon e-commerce platform using HTML, CSS, and JavaScript. The purpose was to replicate key features and design elements to demonstrate web development skills, focusing on user interface and layout. Here’s a detailed breakdown of the features implemented:
 
